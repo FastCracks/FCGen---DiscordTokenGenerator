@@ -14,5 +14,5 @@ Donwload/Create on replit.com and run the main.py/on replit just press start
 
 ## ❗ Disclaimers
 
-•I am not responsible for anything that may happen,example, API Blocking, Account Termination, etc.
+•I am not responsible for anything that may happen,example, API Blocking, Account Termination, etc...
 •This may slow down your computer.
